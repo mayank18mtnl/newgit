@@ -1,2 +1,6 @@
-# newgit
-initial load
+students
+
+may
+joe 
+john 
+kate
